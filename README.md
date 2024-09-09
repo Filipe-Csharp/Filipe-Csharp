@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Filipe
-- 👀 I’m interested in Programm Games
+- 👋 Hi, I’m Filipe
+- 👀 I’m interested in Program Games
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Learn
 - 📫 To reach me is only in my gmail
